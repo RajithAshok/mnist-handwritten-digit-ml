@@ -16,7 +16,8 @@ This repository contains a beginner-level machine learning project that classifi
 
 Below is an example of the training accuracy and loss output from running the model:
 
-<img width="1104" height="511" alt="image" src="https://github.com/user-attachments/assets/d93af5b0-db00-44dc-a150-00b5a236eafe" alt="TerminalOutput" width=200 height=200 />
+<img src="https://github.com/user-attachments/assets/97fba2cf-fe48-4db5-b19c-ef2db27f1c0c" alt="TerminalOutput" width=600 height=600 />
+
 
 ---
 
@@ -24,7 +25,7 @@ Below is an example of the training accuracy and loss output from running the mo
 
 The graph below shows the model accuracy and loss for both training and validation sets across epochs:
 
-<img width="1496" height="619" alt="image" src="https://github.com/user-attachments/assets/0edb3180-a919-4453-a7a6-d8bfdcba318f" alt="GraphPlot" width=200 height=200 />
+<img src="https://github.com/user-attachments/assets/0edb3180-a919-4453-a7a6-d8bfdcba318f" alt="GraphPlot" width=600 height=600 />
 
 ---
 
@@ -32,7 +33,7 @@ The graph below shows the model accuracy and loss for both training and validati
 
 Here are some sample test images alongside the model's predicted labels compared with the true labels:
 
-<img width="994" height="1000" alt="image" src="https://github.com/user-attachments/assets/ccdd168e-b82f-4854-922c-389d311f6789" alt="SamplePredictions" width=200 height=200 />
+<img src="https://github.com/user-attachments/assets/ccdd168e-b82f-4854-922c-389d311f6789" alt="SamplePredictions" width=600 height=600 />
 
 ---
 
