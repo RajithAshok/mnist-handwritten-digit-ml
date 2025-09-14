@@ -45,7 +45,7 @@ Here are some sample test images alongside the model's predicted labels compared
 ```
 pip install tensorflow matplotlib numpy
 ```
-4. Run the `mnist_classifier.py` script (or your notebook).
+4. Run the `mnist_classifier.ipynb` notebook.
 
 ---
 
